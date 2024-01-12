@@ -120,6 +120,11 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+myvenv
+myvenv/
+jstools/node_modules
+node_modules/
+node_modules
 .env
 .venv
 env/
